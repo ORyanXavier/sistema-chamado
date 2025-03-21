@@ -1,0 +1,37 @@
+div{
+    background-color: rgba(red, green, blue, 0)
+}
+*{
+    margin: px;
+    padding: px;
+    box-sizing: border-box;
+
+}
+body{ display: flex;
+    justify-content: center;
+    align-items: center;
+ height: 100vh;
+ background-color: aquamarine;
+}
+form{
+display:flex;
+flex-direction: column;
+gap: 2px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
